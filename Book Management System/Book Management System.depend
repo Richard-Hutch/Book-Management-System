@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1578435038 source:c:\users\richa\cs code\book management system\main.cpp
+	"bms.h"
+
+1578425075 c:\users\richa\cs code\book management system\bms.h
+	<iomanip>
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+
+1578435741 source:c:\users\richa\cs code\book management system\bms.cpp
+	"bms.h"
+
